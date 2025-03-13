@@ -1,6 +1,6 @@
 import {Text, View, Image, TextInput, FlatList} from 'react-native';
 import React, {useState} from 'react';
-import styles from './styles';
+import styles from './style';
 import {Colors} from 'react-native/Libraries/NewAppScreen';
 import Category from '../../components/category/Category';
 import ProductCard from '../../components/productCard/ProductCard';

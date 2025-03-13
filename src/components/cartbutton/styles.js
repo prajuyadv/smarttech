@@ -10,13 +10,14 @@ const styles = StyleSheet.create({
      paddingVertical:Spacing.md,
     },
     addToCartButton:{
-     width:'90%',
+     width:'70%',
      padding:Spacing.md,
      justifyContent:'center',
      alignItems:'center',
      flexDirection:'row',
      borderRadius:Spacing.md,
      gap:Spacing.sm,
+     backgroundColor:'blue',
     },
     addToCartText:{
         color:Colors.background,
